@@ -1,0 +1,15 @@
+{
+  "name": "unit-test-plp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "alunyapatrick2022",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.7.0"
+  }
+}
